@@ -1,0 +1,16 @@
+StartChar: .notdef
+Encoding: 0 0 0
+Width: 1000
+Flags: W
+LayerCount: 2
+Back
+Fore
+SplineSet
+0 0 m 1
+ 977 0 l 1
+ 977 1000 l 1
+ 0 1000 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 9
+EndChar
